@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReeSSB - Shashi Bhushan
+- 👋 Hi, I’m Shashi Bhushan
 - 👀 I’m interested in Web Apps, Web3.0, Machine Learning, AI
 - 🌱 I’m currently learning Angular/Typescript
 - 💞️ I’m looking to collaborate on any kind of web apps.
